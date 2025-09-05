@@ -11,7 +11,7 @@
   <a href="https://github.com/sam-joseph10?tab=repositories">
     <img src="https://img.shields.io/badge/Projects-FF5722?style=for-the-badge&logo=github&logoColor=white" alt="Projects">
   </a>
-  <a href="[https://www.linkedin.com/in/m-k-sam-joseph]">
+  <a href="https://www.linkedin.com/in/m-k-sam-joseph-/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
@@ -115,13 +115,13 @@ Real-time game dashboard where user can rockpapersessors with AI and get the gam
 ## 🤝 Let's Connect!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/m-k-sam-joseph" target="blank">
+  <a href="https://www.linkedin.com/in/m-k-sam-joseph-/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="YourLinkedIn" height="40" width="40" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YourLinkedIn" target="blank">
+  <a href="https://www.linkedin.com/in/m-k-sam-joseph-/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
