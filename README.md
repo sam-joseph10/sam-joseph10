@@ -73,6 +73,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 
 
@@ -112,6 +113,18 @@ Real-time game dashboard where user can rockpapersessors with AI and get the gam
 
 
 ## 🤝 Let's Connect!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/m-k-sam-joseph-212001378?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="YourLinkedIn" height="40" width="40" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/YourLinkedIn" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
 
 
 
