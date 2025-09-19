@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm M K Samuel Joseph</h1>
-<h3 align="center"> passionate full-stack and DSA enthusiast </h3>
+<h3 align="center"> </h3>
 <h4 align="center"> Im from Karnataka,India </h4>
 
 
